@@ -1,0 +1,2262 @@
+stdClass Object
+(
+    [statuses] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => in
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:50:37 +0000 2015
+                    [id] => 5.7082322953678E+17
+                    [id_str] => 570823229536776193
+                    [text] => @Marwxngggg i tak sweet lah , kalau ikutkan you lagi sweet , nak nak pulak artis nescafe pulak .. hmmm join tf ?
+                    [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 5.7082209695724E+17
+                    [in_reply_to_status_id_str] => 570822096957239296
+                    [in_reply_to_user_id] => 600020188
+                    [in_reply_to_user_id_str] => 600020188
+                    [in_reply_to_screen_name] => Marwxngggg
+                    [user] => stdClass Object
+                        (
+                            [id] => 406139306
+                            [id_str] => 406139306
+                            [name] => MEGΔD
+                            [screen_name] => NazrinHezry
+                            [location] => one and only 
+                            [profile_location] => 
+                            [description] => @fatimahkasa dalam hati
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 436
+                            [friends_count] => 232
+                            [listed_count] => 0
+                            [created_at] => Sun Nov 06 09:15:05 +0000 2011
+                            [favourites_count] => 433
+                            [utc_offset] => -32400
+                            [time_zone] => Alaska
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 22366
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => FFFFFF
+                            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/693976460/6a99ec12fef9201166f6f130c3ace31e.png
+                            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/693976460/6a99ec12fef9201166f6f130c3ace31e.png
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/567028900559994880/SAL-o_kc_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/567028900559994880/SAL-o_kc_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/406139306/1424720456
+                            [profile_link_color] => 000000
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => FFFFFF
+                            [profile_text_color] => 000000
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => Marwxngggg
+                                            [name] => ALIFF
+                                            [id] => 600020188
+                                            [id_str] => 600020188
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 11
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => in
+                )
+
+            [1] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => tr
+                        )
+
+                    [created_at] => Thu Feb 26 05:49:19 +0000 2015
+                    [id] => 5.708228991516E+17
+                    [id_str] => 570822899151597570
+                    [text] => bi nescafe içek uykumuzu açak sjsjsk
+                    [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 2455677920
+                            [id_str] => 2455677920
+                            [name] => SÜM B ~
+                            [screen_name] => hepgulengamzeli
+                            [location] => 
+                            [profile_location] => 
+                            [description] => BURAK 05.11.2014 ❤ papatyaa en sevdiğiim ❤️ snapchat : sumeyesilyurt // ask.fm : sümeyyesilyurt
+                            [url] => http://t.co/vk3Z6cdbkm
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/vk3Z6cdbkm
+                                                            [expanded_url] => http://instagram.com/sumeyyesilyurt
+                                                            [display_url] => instagram.com/sumeyyesilyurt
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 22
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 1320
+                            [friends_count] => 483
+                            [listed_count] => 0
+                            [created_at] => Sun Apr 20 23:22:27 +0000 2014
+                            [favourites_count] => 12953
+                            [utc_offset] => 7200
+                            [time_zone] => Athens
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 6733
+                            [lang] => tr
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => FFFFFF
+                            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/508963322691993601/bvEG9Wcs.jpeg
+                            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/508963322691993601/bvEG9Wcs.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/569949568398540800/snmw7uTv_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/569949568398540800/snmw7uTv_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/2455677920/1424597971
+                            [profile_link_color] => F21616
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => 95E8EC
+                            [profile_text_color] => 3C3940
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 1
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => tr
+                )
+
+            [2] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => in
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:48:58 +0000 2015
+                    [id] => 5.708228106474E+17
+                    [id_str] => 570822810647400448
+                    [text] => "@nabillaadnan: @syahiraaaa syira is beauty" awwwwwww *belanja nescafe o*
+                    [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 86347754
+                            [id_str] => 86347754
+                            [name] => syigha
+                            [screen_name] => syahiraaaa
+                            [location] => Rembau 
+                            [profile_location] => 
+                            [description] => moon child	&#127769;
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 479
+                            [friends_count] => 288
+                            [listed_count] => 0
+                            [created_at] => Fri Oct 30 16:33:07 +0000 2009
+                            [favourites_count] => 780
+                            [utc_offset] => 28800
+                            [time_zone] => Kuala Lumpur
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 28581
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => FFFFFF
+                            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000163585607/E4jcy8MB.jpeg
+                            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000163585607/E4jcy8MB.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/569156495103627264/tJ2RV9_4_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/569156495103627264/tJ2RV9_4_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/86347754/1417873479
+                            [profile_link_color] => 000000
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => FFFFFF
+                            [profile_text_color] => 000000
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => nabillaadnan
+                                            [name] => NABILLA
+                                            [id] => 1302176558
+                                            [id_str] => 1302176558
+                                            [indices] => Array
+                                                (
+                                                    [0] => 1
+                                                    [1] => 14
+                                                )
+
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [screen_name] => syahiraaaa
+                                            [name] => syigha
+                                            [id] => 86347754
+                                            [id_str] => 86347754
+                                            [indices] => Array
+                                                (
+                                                    [0] => 16
+                                                    [1] => 27
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => in
+                )
+
+            [3] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => in
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:41:18 +0000 2015
+                    [id] => 5.7082088488312E+17
+                    [id_str] => 570820884883120128
+                    [text] => Hp masuk dlm nescafe.
+dia : rendam dlm beras 12j
+aku : rendam tu, nk kena ltk air ke??
+dia : kau ingat nak masak nasi kerrr?? 
+# HAHAHAHAHA
+                    [source] => <a href="https://twitter.com/download/android" rel="nofollow">Twitter for Android Tablets</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 1349020460
+                            [id_str] => 1349020460
+                            [name] => ∀ΔΣ
+                            [screen_name] => junaidahmanshor
+                            [location] => 
+                            [profile_location] => 
+                            [description] => SLEEP. EAT.  Doo Joonie
+                            [url] => http://t.co/EPYddChkX6
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/EPYddChkX6
+                                                            [expanded_url] => http://instagram.com/ijuuunnn
+                                                            [display_url] => instagram.com/ijuuunnn
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 22
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 82
+                            [friends_count] => 466
+                            [listed_count] => 0
+                            [created_at] => Sat Apr 13 11:39:17 +0000 2013
+                            [favourites_count] => 0
+                            [utc_offset] => 28800
+                            [time_zone] => Kuala Lumpur
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 1941
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => FAFAFA
+                            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/433996863830646784/XzJXptyV.jpeg
+                            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/433996863830646784/XzJXptyV.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/543550332635054080/r7dHUYap_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/543550332635054080/r7dHUYap_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/1349020460/1418427612
+                            [profile_link_color] => F5ABB5
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => 7AC3EE
+                            [profile_text_color] => 3D1957
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => in
+                )
+
+            [4] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => en
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:37:31 +0000 2015
+                    [id] => 5.7081993111512E+17
+                    [id_str] => 570819931115122688
+                    [text] => @horiautomatic Kobe all nescafe , same lautreamont now refused tokyo government
+                    [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 5.7081869449594E+17
+                    [in_reply_to_status_id_str] => 570818694495936513
+                    [in_reply_to_user_id] => 303036121
+                    [in_reply_to_user_id_str] => 303036121
+                    [in_reply_to_screen_name] => horiautomatic
+                    [user] => stdClass Object
+                        (
+                            [id] => 303036121
+                            [id_str] => 303036121
+                            [name] => Yuko Hori
+                            [screen_name] => horiautomatic
+                            [location] => Osaka
+                            [profile_location] => 
+                            [description] => https://t.co/gX4bcgan ,https://t.co/OAestWQW ,
+http://t.co/dNrEa6xg ,
+http://t.co/hTCxZPhw
+                            [url] => http://t.co/th9IdfvYzu
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/th9IdfvYzu
+                                                            [expanded_url] => http://stores.ebay.co.uk/marksgardenpark
+                                                            [display_url] => stores.ebay.co.uk/marksgardenpark
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 22
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => https://t.co/gX4bcgan
+                                                            [expanded_url] => https://www.s1.co.kr/main/main.jsp
+                                                            [display_url] => s1.co.kr/main/main.jsp
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 21
+                                                                )
+
+                                                        )
+
+                                                    [1] => stdClass Object
+                                                        (
+                                                            [url] => https://t.co/OAestWQW
+                                                            [expanded_url] => https://www.moneygram.com/MGIRewards/Change/index.htm?CC=JP
+                                                            [display_url] => moneygram.com/MGIRewards/Cha…
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 23
+                                                                    [1] => 44
+                                                                )
+
+                                                        )
+
+                                                    [2] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/dNrEa6xg
+                                                            [expanded_url] => http://www.facebook.com/yuko.hori.7165
+                                                            [display_url] => facebook.com/yuko.hori.7165
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 48
+                                                                    [1] => 68
+                                                                )
+
+                                                        )
+
+                                                    [3] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/hTCxZPhw
+                                                            [expanded_url] => http://romangardenparkwithaview.blogspot.com/
+                                                            [display_url] => romangardenparkwithaview.blogspot.com
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 72
+                                                                    [1] => 92
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 671
+                            [friends_count] => 2001
+                            [listed_count] => 11
+                            [created_at] => Sun May 22 06:01:24 +0000 2011
+                            [favourites_count] => 21145
+                            [utc_offset] => 32400
+                            [time_zone] => Osaka
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 23974
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => C0DEED
+                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/2115740241/TS2E0038_normal.JPG
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/2115740241/TS2E0038_normal.JPG
+                            [profile_link_color] => 0084B4
+                            [profile_sidebar_border_color] => C0DEED
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 1
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 1
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => horiautomatic
+                                            [name] => Yuko Hori
+                                            [id] => 303036121
+                                            [id_str] => 303036121
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 14
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => en
+                )
+
+            [5] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => es
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:28:26 +0000 2015
+                    [id] => 5.7081764633511E+17
+                    [id_str] => 570817646335111169
+                    [text] => Kaleng nescafe late @JawabDoank
+                    [source] => <a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 5.7060416926808E+17
+                    [in_reply_to_status_id_str] => 570604169268080640
+                    [in_reply_to_user_id] => 561789964
+                    [in_reply_to_user_id_str] => 561789964
+                    [in_reply_to_screen_name] => JawabDoank
+                    [user] => stdClass Object
+                        (
+                            [id] => 531966272
+                            [id_str] => 531966272
+                            [name] => Inggit Kori Qodariah
+                            [screen_name] => Inggitkq
+                            [location] => Bandung,
+                            [profile_location] => 
+                            [description] => Biarkan aku punya kahayang,(҂'̀⌣'́)9
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 83
+                            [friends_count] => 123
+                            [listed_count] => 0
+                            [created_at] => Wed Mar 21 06:08:45 +0000 2012
+                            [favourites_count] => 1
+                            [utc_offset] => 25200
+                            [time_zone] => Jakarta
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 581
+                            [lang] => id
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => C6E2EE
+                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme2/bg.gif
+                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme2/bg.gif
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/554817707585978369/y6qV750Z_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/554817707585978369/y6qV750Z_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/531966272/1421484561
+                            [profile_link_color] => 1F98C7
+                            [profile_sidebar_border_color] => C6E2EE
+                            [profile_sidebar_fill_color] => DAECF4
+                            [profile_text_color] => 663B12
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => JawabDoank
+                                            [name] => Jawab Doank
+                                            [id] => 561789964
+                                            [id_str] => 561789964
+                                            [indices] => Array
+                                                (
+                                                    [0] => 20
+                                                    [1] => 31
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => es
+                )
+
+            [6] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => en
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:17:14 +0000 2015
+                    [id] => 5.7081482550209E+17
+                    [id_str] => 570814825502089216
+                    [text] => Was that you in the Nescafe commercial? @arissedsnts? :D
+                    [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 37353651
+                            [id_str] => 37353651
+                            [name] => Kevin Devera
+                            [screen_name] => kevinpdevera
+                            [location] => Quezon City, Metro Manila
+                            [profile_location] => 
+                            [description] => Dreamer • Ambitious • Actor • Singer • REGISTERED Nurse  Instagram: @kevinpdevera
+                            [url] => http://t.co/vgHnp0YwWq
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/vgHnp0YwWq
+                                                            [expanded_url] => http://kevinpdevera.tumblr.com
+                                                            [display_url] => kevinpdevera.tumblr.com
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 22
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 4251
+                            [friends_count] => 820
+                            [listed_count] => 6
+                            [created_at] => Sun May 03 03:27:03 +0000 2009
+                            [favourites_count] => 657
+                            [utc_offset] => 28800
+                            [time_zone] => Hong Kong
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 39537
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => FFFFFF
+                            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000104931016/1bbcb52c6987536da593a377aff67b1b.jpeg
+                            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000104931016/1bbcb52c6987536da593a377aff67b1b.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/553930867148472320/_V7OVMta_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/553930867148472320/_V7OVMta_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/37353651/1424104577
+                            [profile_link_color] => 0CA8C4
+                            [profile_sidebar_border_color] => 000000
+                            [profile_sidebar_fill_color] => A6E0C1
+                            [profile_text_color] => 000000
+                            [profile_use_background_image] => 
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => arissedsnts
+                                            [name] => Arisse de Santos
+                                            [id] => 27869888
+                                            [id_str] => 27869888
+                                            [indices] => Array
+                                                (
+                                                    [0] => 40
+                                                    [1] => 52
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => en
+                )
+
+            [7] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => ru
+                        )
+
+                    [created_at] => Thu Feb 26 05:15:25 +0000 2015
+                    [id] => 5.7081436900261E+17
+                    [id_str] => 570814369002606593
+                    [text] => #стихи из рекламы nescafe http://t.co/cxgp34t6Pk http://t.co/7XF3PqVbZF
+                    [source] => <a href="http://www.tweetlanes.com" rel="nofollow">Tweet Lanes</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 2804371692
+                            [id_str] => 2804371692
+                            [name] => Леонард Суховицкий
+                            [screen_name] => vneiiouashr
+                            [location] => Вилсанди
+                            [profile_location] => 
+                            [description] => Букмекер
+                            [url] => https://t.co/a7N0s6PmeM
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => https://t.co/a7N0s6PmeM
+                                                            [expanded_url] => https://twitter.com/vneiiouashr
+                                                            [display_url] => twitter.com/vneiiouashr
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 23
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 172
+                            [friends_count] => 643
+                            [listed_count] => 1
+                            [created_at] => Thu Sep 11 22:00:59 +0000 2014
+                            [favourites_count] => 13
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 791
+                            [lang] => ru
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => C0DEED
+                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/552420789056978944/luvJuAzM_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/552420789056978944/luvJuAzM_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/2804371692/1417593633
+                            [profile_link_color] => 0084B4
+                            [profile_sidebar_border_color] => C0DEED
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 1
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [text] => стихи
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 6
+                                                )
+
+                                        )
+
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://t.co/cxgp34t6Pk
+                                            [expanded_url] => http://twiza.ru/
+                                            [display_url] => twiza.ru
+                                            [indices] => Array
+                                                (
+                                                    [0] => 26
+                                                    [1] => 48
+                                                )
+
+                                        )
+
+                                )
+
+                            [media] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [id] => 5.7081434733886E+17
+                                            [id_str] => 570814347338862592
+                                            [indices] => Array
+                                                (
+                                                    [0] => 49
+                                                    [1] => 71
+                                                )
+
+                                            [media_url] => http://pbs.twimg.com/media/B-vwn-XUUAA3Z0d.jpg
+                                            [media_url_https] => https://pbs.twimg.com/media/B-vwn-XUUAA3Z0d.jpg
+                                            [url] => http://t.co/7XF3PqVbZF
+                                            [display_url] => pic.twitter.com/7XF3PqVbZF
+                                            [expanded_url] => http://twitter.com/vneiiouashr/status/570814369002606593/photo/1
+                                            [type] => photo
+                                            [sizes] => stdClass Object
+                                                (
+                                                    [small] => stdClass Object
+                                                        (
+                                                            [w] => 340
+                                                            [h] => 191
+                                                            [resize] => fit
+                                                        )
+
+                                                    [thumb] => stdClass Object
+                                                        (
+                                                            [w] => 150
+                                                            [h] => 150
+                                                            [resize] => crop
+                                                        )
+
+                                                    [medium] => stdClass Object
+                                                        (
+                                                            [w] => 600
+                                                            [h] => 337
+                                                            [resize] => fit
+                                                        )
+
+                                                    [large] => stdClass Object
+                                                        (
+                                                            [w] => 1024
+                                                            [h] => 575
+                                                            [resize] => fit
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => ru
+                )
+
+            [8] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => es
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:15:02 +0000 2015
+                    [id] => 5.7081427309135E+17
+                    [id_str] => 570814273091346432
+                    [text] => Ni aunque me acabe el frasco de Nescafe
+                    [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 271791579
+                            [id_str] => 271791579
+                            [name] => Fanny H. 
+                            [screen_name] => Estefanyrmz
+                            [location] => Monterrey
+                            [profile_location] => 
+                            [description] => Esta es mi vida resumida en MEDICINA, FUTBOL & AMIGOS♥
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 322
+                            [friends_count] => 342
+                            [listed_count] => 1
+                            [created_at] => Fri Mar 25 05:47:59 +0000 2011
+                            [favourites_count] => 1500
+                            [utc_offset] => -21600
+                            [time_zone] => Central Time (US & Canada)
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 10093
+                            [lang] => es
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => 022330
+                            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000119176804/33c6f4996c9df45941ebaeb5681326b2.jpeg
+                            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000119176804/33c6f4996c9df45941ebaeb5681326b2.jpeg
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/569568531138625536/D2F8k4kj_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/569568531138625536/D2F8k4kj_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/271791579/1414743143
+                            [profile_link_color] => B30042
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => C0DFEC
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => es
+                )
+
+            [9] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => es
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:14:18 +0000 2015
+                    [id] => 5.7081408690631E+17
+                    [id_str] => 570814086906306561
+                    [text] => @clsuprema que mane cappuccino o negocio aqui eh nescafe preto
+                    [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 5.7081373788147E+17
+                    [in_reply_to_status_id_str] => 570813737881473024
+                    [in_reply_to_user_id] => 1017752071
+                    [in_reply_to_user_id_str] => 1017752071
+                    [in_reply_to_screen_name] => clsuprema
+                    [user] => stdClass Object
+                        (
+                            [id] => 2800727627
+                            [id_str] => 2800727627
+                            [name] => × 까흐 ×
+                            [screen_name] => mjupao
+                            [location] => baby × starlight × miso
+                            [profile_location] => 
+                            [description] => o que tu tá fazendo aqui ? (°-°)
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 1281
+                            [friends_count] => 1160
+                            [listed_count] => 1
+                            [created_at] => Thu Oct 02 20:12:00 +0000 2014
+                            [favourites_count] => 224
+                            [utc_offset] => -10800
+                            [time_zone] => Santiago
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 7650
+                            [lang] => pt
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => FFFFFF
+                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/570701708913688576/JqHxPfOV_normal.png
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/570701708913688576/JqHxPfOV_normal.png
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/2800727627/1424900821
+                            [profile_link_color] => 000000
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => clsuprema
+                                            [name] => dayse
+                                            [id] => 1017752071
+                                            [id_str] => 1017752071
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 10
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => es
+                )
+
+            [10] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => in
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:14:07 +0000 2015
+                    [id] => 5.7081404143989E+17
+                    [id_str] => 570814041439891456
+                    [text] => Antara teh dengan kopi aku lebih suka nescafe sebab milo sedap 😁
+                    [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 2962619214
+                            [id_str] => 2962619214
+                            [name] => Fyna^^
+                            [screen_name] => asmasafyna_
+                            [location] => Kuala Selangor
+                            [profile_location] => 
+                            [description] => 18 Years Old/Wechat-asma_safyna97/Online Shopping♥
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 25
+                            [friends_count] => 149
+                            [listed_count] => 0
+                            [created_at] => Wed Jan 07 08:33:56 +0000 2015
+                            [favourites_count] => 2
+                            [utc_offset] => 28800
+                            [time_zone] => Kuala Lumpur
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 73
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => C0DEED
+                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/570423668183932928/PEcGSk6m_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/570423668183932928/PEcGSk6m_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/2962619214/1424922334
+                            [profile_link_color] => 0084B4
+                            [profile_sidebar_border_color] => C0DEED
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 1
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => stdClass Object
+                        (
+                            [type] => Point
+                            [coordinates] => Array
+                                (
+                                    [0] => 3.4115257
+                                    [1] => 101.1682804
+                                )
+
+                        )
+
+                    [coordinates] => stdClass Object
+                        (
+                            [type] => Point
+                            [coordinates] => Array
+                                (
+                                    [0] => 101.1682804
+                                    [1] => 3.4115257
+                                )
+
+                        )
+
+                    [place] => stdClass Object
+                        (
+                            [id] => 919b2a839cb42f80
+                            [url] => https://api.twitter.com/1.1/geo/id/919b2a839cb42f80.json
+                            [place_type] => city
+                            [name] => Tanjong Karang
+                            [full_name] => Tanjong Karang, Selangor
+                            [country_code] => MY
+                            [country] => Malaysia
+                            [contained_within] => Array
+                                (
+                                )
+
+                            [bounding_box] => stdClass Object
+                                (
+                                    [type] => Polygon
+                                    [coordinates] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [0] => 101.100296
+                                                            [1] => 3.3940317
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [0] => 101.408465
+                                                            [1] => 3.3940317
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [0] => 101.408465
+                                                            [1] => 3.5975196
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [0] => 101.100296
+                                                            [1] => 3.5975196
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [attributes] => stdClass Object
+                                (
+                                )
+
+                        )
+
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => in
+                )
+
+            [11] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => in
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:12:41 +0000 2015
+                    [id] => 5.7081368340575E+17
+                    [id_str] => 570813683405754369
+                    [text] => RT @eeddynna: Mcm bese seteguk nescafe ice dpt menghilangkan secebis tekanan 😳
+                    [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 1353803293
+                            [id_str] => 1353803293
+                            [name] => Arjuna
+                            [screen_name] => famy_fadziel
+                            [location] => 
+                            [profile_location] => 
+                            [description] => mana boleh bedal kena berakal
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 467
+                            [friends_count] => 454
+                            [listed_count] => 0
+                            [created_at] => Mon Apr 15 08:04:27 +0000 2013
+                            [favourites_count] => 1374
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 3271
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => C0DEED
+                            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000152253229/mz9jAyE5.jpeg
+                            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000152253229/mz9jAyE5.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/542733462734532608/_JT_9QDN_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/542733462734532608/_JT_9QDN_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/1353803293/1418232875
+                            [profile_link_color] => 0084B4
+                            [profile_sidebar_border_color] => 000000
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweeted_status] => stdClass Object
+                        (
+                            [metadata] => stdClass Object
+                                (
+                                    [iso_language_code] => in
+                                    [result_type] => recent
+                                )
+
+                            [created_at] => Thu Feb 26 04:54:15 +0000 2015
+                            [id] => 5.7080904194276E+17
+                            [id_str] => 570809041942761473
+                            [text] => Mcm bese seteguk nescafe ice dpt menghilangkan secebis tekanan 😳
+                            [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+                            [truncated] => 
+                            [in_reply_to_status_id] => 
+                            [in_reply_to_status_id_str] => 
+                            [in_reply_to_user_id] => 
+                            [in_reply_to_user_id_str] => 
+                            [in_reply_to_screen_name] => 
+                            [user] => stdClass Object
+                                (
+                                    [id] => 376033982
+                                    [id_str] => 376033982
+                                    [name] => umminajwa♡ 
+                                    [screen_name] => eeddynna
+                                    [location] => 78300 | 43400
+                                    [profile_location] => 
+                                    [description] => 19. an alien and unpredictable. PSH ♡
+                                    [url] => http://t.co/EfavD378mG
+                                    [entities] => stdClass Object
+                                        (
+                                            [url] => stdClass Object
+                                                (
+                                                    [urls] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [url] => http://t.co/EfavD378mG
+                                                                    [expanded_url] => http://instagram.com/eeddynna
+                                                                    [display_url] => instagram.com/eeddynna
+                                                                    [indices] => Array
+                                                                        (
+                                                                            [0] => 0
+                                                                            [1] => 22
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [description] => stdClass Object
+                                                (
+                                                    [urls] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [protected] => 
+                                    [followers_count] => 899
+                                    [friends_count] => 549
+                                    [listed_count] => 1
+                                    [created_at] => Mon Sep 19 05:49:23 +0000 2011
+                                    [favourites_count] => 6904
+                                    [utc_offset] => 28800
+                                    [time_zone] => Kuala Lumpur
+                                    [geo_enabled] => 1
+                                    [verified] => 
+                                    [statuses_count] => 23880
+                                    [lang] => en
+                                    [contributors_enabled] => 
+                                    [is_translator] => 
+                                    [is_translation_enabled] => 
+                                    [profile_background_color] => 199FCF
+                                    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000022739514/5f80e2a18d859cf11e88084c6c7e0c33.jpeg
+                                    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000022739514/5f80e2a18d859cf11e88084c6c7e0c33.jpeg
+                                    [profile_background_tile] => 1
+                                    [profile_image_url] => http://pbs.twimg.com/profile_images/555706870938075136/SboWrDpP_normal.jpeg
+                                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/555706870938075136/SboWrDpP_normal.jpeg
+                                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/376033982/1422427774
+                                    [profile_link_color] => C41DDE
+                                    [profile_sidebar_border_color] => FFFFFF
+                                    [profile_sidebar_fill_color] => E5507E
+                                    [profile_text_color] => 362720
+                                    [profile_use_background_image] => 1
+                                    [default_profile] => 
+                                    [default_profile_image] => 
+                                    [following] => 
+                                    [follow_request_sent] => 
+                                    [notifications] => 
+                                )
+
+                            [geo] => 
+                            [coordinates] => 
+                            [place] => 
+                            [contributors] => 
+                            [retweet_count] => 1
+                            [favorite_count] => 1
+                            [entities] => stdClass Object
+                                (
+                                    [hashtags] => Array
+                                        (
+                                        )
+
+                                    [symbols] => Array
+                                        (
+                                        )
+
+                                    [user_mentions] => Array
+                                        (
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [favorited] => 
+                            [retweeted] => 
+                            [lang] => in
+                        )
+
+                    [retweet_count] => 1
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => eeddynna
+                                            [name] => umminajwa♡ 
+                                            [id] => 376033982
+                                            [id_str] => 376033982
+                                            [indices] => Array
+                                                (
+                                                    [0] => 3
+                                                    [1] => 12
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => in
+                )
+
+            [12] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => tr
+                        )
+
+                    [created_at] => Thu Feb 26 05:11:46 +0000 2015
+                    [id] => 5.7081345009769E+17
+                    [id_str] => 570813450097692672
+                    [text] => Camlica Tepesinden Kusbakisi muhtesem görüntüler/Istanbul/DJI Phantom 2 Vision + / Birol Ayaz: http://t.co/mwF38kXz7m @YouTube aracılığıyla
+                    [source] => <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 3046803203
+                            [id_str] => 3046803203
+                            [name] => filizayaz
+                            [screen_name] => Nescafe_3in1_
+                            [location] => 
+                            [profile_location] => 
+                            [description] => 
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 3
+                            [friends_count] => 42
+                            [listed_count] => 0
+                            [created_at] => Fri Feb 20 13:37:42 +0000 2015
+                            [favourites_count] => 0
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 14
+                            [lang] => tr
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => C0DEED
+                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png
+                            [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png
+                            [profile_link_color] => 0084B4
+                            [profile_sidebar_border_color] => C0DEED
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 1
+                            [default_profile_image] => 1
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => YouTube
+                                            [name] => YouTube
+                                            [id] => 10228272
+                                            [id_str] => 10228272
+                                            [indices] => Array
+                                                (
+                                                    [0] => 118
+                                                    [1] => 126
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://t.co/mwF38kXz7m
+                                            [expanded_url] => http://youtu.be/17W9v_w6Vt8
+                                            [display_url] => youtu.be/17W9v_w6Vt8
+                                            [indices] => Array
+                                                (
+                                                    [0] => 95
+                                                    [1] => 117
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => tr
+                )
+
+            [13] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => en
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:10:37 +0000 2015
+                    [id] => 5.7081315998172E+17
+                    [id_str] => 570813159981715456
+                    [text] => @JeffMikeC yaya. One of it. Another one is Nescafé eh
+                    [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 5.7081201347711E+17
+                    [in_reply_to_status_id_str] => 570812013477105664
+                    [in_reply_to_user_id] => 354773059
+                    [in_reply_to_user_id_str] => 354773059
+                    [in_reply_to_screen_name] => JeffMikeC
+                    [user] => stdClass Object
+                        (
+                            [id] => 49285428
+                            [id_str] => 49285428
+                            [name] => Marukiko
+                            [screen_name] => shortyynerdy
+                            [location] => Jasoom
+                            [profile_location] => 
+                            [description] => 龍
+                            [url] => http://t.co/6oWnAjthR1
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/6oWnAjthR1
+                                                            [expanded_url] => http://wyyee.tumblr.com
+                                                            [display_url] => wyyee.tumblr.com
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 22
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 132
+                            [friends_count] => 162
+                            [listed_count] => 5
+                            [created_at] => Sun Jun 21 10:23:37 +0000 2009
+                            [favourites_count] => 1023
+                            [utc_offset] => 28800
+                            [time_zone] => Kuala Lumpur
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 18662
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => FFFEFA
+                            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/402214393/miss_you_and_your_hair_.png
+                            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/402214393/miss_you_and_your_hair_.png
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/568959804685565952/rRcEwP9R_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/568959804685565952/rRcEwP9R_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/49285428/1367574356
+                            [profile_link_color] => A8A1A5
+                            [profile_sidebar_border_color] => 0A0A09
+                            [profile_sidebar_fill_color] => FFFFFA
+                            [profile_text_color] => 050505
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => JeffMikeC
+                                            [name] => Jeffrey Chang
+                                            [id] => 354773059
+                                            [id_str] => 354773059
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 10
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => en
+                )
+
+            [14] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [iso_language_code] => in
+                            [result_type] => recent
+                        )
+
+                    [created_at] => Thu Feb 26 05:08:46 +0000 2015
+                    [id] => 5.708126940701E+17
+                    [id_str] => 570812694070104064
+                    [text] => Lupa deh lagu ini pernah masuk album kompilasi apa ya?! Kalo gasalah sih Nescafé Musik Asik ♫ Pergi by Cokelat — https://t.co/458dkv0nor
+                    [source] => <a href="https://path.com/" rel="nofollow">Path</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 86728429
+                            [id_str] => 86728429
+                            [name] => Anggita Destiara
+                            [screen_name] => anggypum
+                            [location] => Jakarta, Indonesia
+                            [profile_location] => 
+                            [description] => #90sKids! Amateur Singer | AB | #LFC | Sampai kapan kita cuma basa-basi. Bilang mereka kita kasihani. Tapi tak ada aksi. Cuma bisa orasi #SaveTheAnimal
+                            [url] => https://t.co/uhiouHxRd7
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => https://t.co/uhiouHxRd7
+                                                            [expanded_url] => https://soundcloud.com/anggypum
+                                                            [display_url] => soundcloud.com/anggypum
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 23
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 405
+                            [friends_count] => 368
+                            [listed_count] => 2
+                            [created_at] => Sun Nov 01 14:10:56 +0000 2009
+                            [favourites_count] => 483
+                            [utc_offset] => 25200
+                            [time_zone] => Jakarta
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 24067
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => FFFFFF
+                            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/459729961373278208/AdVh3sh5.jpeg
+                            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/459729961373278208/AdVh3sh5.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/563132512952532995/9Z0x5pRh_normal.jpeg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/563132512952532995/9Z0x5pRh_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/86728429/1398442957
+                            [profile_link_color] => 9E8E23
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => FFFFFF
+                            [profile_text_color] => B528B5
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => https://t.co/458dkv0nor
+                                            [expanded_url] => https://path.com/p/vzr9t
+                                            [display_url] => path.com/p/vzr9t
+                                            [indices] => Array
+                                                (
+                                                    [0] => 113
+                                                    [1] => 136
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => in
+                )
+
+        )
+
+    [search_metadata] => stdClass Object
+        (
+            [completed_in] => 0.035
+            [max_id] => 5.7082322953678E+17
+            [max_id_str] => 570823229536776193
+            [next_results] => ?max_id=570812694070104063&q=nescafe&include_entities=1
+            [query] => nescafe
+            [refresh_url] => ?since_id=570823229536776193&q=nescafe&include_entities=1
+            [count] => 15
+            [since_id] => 0
+            [since_id_str] => 0
+        )
+
+)

@@ -14,7 +14,9 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+//$config['base_url']	= '';
+$config['base_url']	= 'http://localhost/bearbear/';
+$config['document_root']= '/bearbear/';
 
 /*
 |--------------------------------------------------------------------------
@@ -224,7 +226,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = '';
+$config['encryption_key'] = 'b34Rl3@r';
 
 /*
 |--------------------------------------------------------------------------
